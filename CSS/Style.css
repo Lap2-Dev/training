@@ -1,0 +1,167 @@
+body {
+    font-family: 'Arial';
+    font-size: 16px;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+.head {
+    background-color: #3c4cad;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    padding-left: 45px;
+    }
+
+.head a {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding-right: 10px;
+}
+
+.second {
+    background-color: #6975b9;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 45px;
+    padding-right: 30px;
+    font-size: 16px;
+    
+    
+    
+}
+
+.second input {
+    width: 250px;
+    height: 35px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    box-shadow: none;
+    border: 0px;
+}
+
+button {
+    width: 80px;
+    height: 35px;
+    border-radius: 5px;
+    border: 0px;
+    color: #ffffff;
+    background-color: #56c596;
+}
+
+.chapter {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.chapter1 {
+    width: 815px;
+    text-align: justify;
+    padding-left: 45px;
+}
+
+.breadcrumb {
+    width: 150px;
+    height: auto;
+    padding-right: 30px;
+    font-family: 'Arial';
+    list-style-type: none;
+    list-style-position: outside;
+    border-radius: 7px;
+    box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.5);
+}
+
+.breadcrumb a{
+    color: black;
+    font: arial;
+}
+
+.one {
+    padding-bottom: 20px;
+    padding-left: 0px;
+    
+}
+
+.two {
+    padding-left: 0px;
+}
+
+.two-two{
+    padding-right: 20px;
+}
+
+.two-three {
+    padding-left: 20px;
+}
+
+.three {
+    padding-left: 30px;
+}
+
+.four {
+    padding-top: 20px;
+
+}
+
+.five {
+    padding-left: 20px;
+}
+
+.six {
+    padding-left: 30px;
+}
+
+
+.article1 {
+    margin: 30px;
+    padding: 15px;
+    border-radius: 7px;
+    box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.5);
+}
+
+
+
+.auth a {
+    padding-right: 10px;
+    font-size: 20px;
+    font-family: 'garamond';
+    color: beige;
+    font-family: 'Arial';
+}
+
+.art {
+    display: flex;
+    justify-content: space-between;
+    }
+
+.viev {
+    display: flex;
+        justify-content: space-between;
+        width: 225px;
+        
+}
+
+    .like {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .advertisement {
+        padding-left: 30px;
+        width: 800px;
+    }
+
+    footer {
+        background-color: #414141;
+        color: #ffffff;
+        display: flex;
+        justify-content: space-between;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
